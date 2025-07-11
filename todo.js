@@ -67,7 +67,6 @@ program
     todos = [];
     saveTodos(todos);
     console.log("All Tasks Deleted");
-    
   });
 
 program
