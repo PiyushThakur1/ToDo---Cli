@@ -45,42 +45,42 @@ A simple and customizable command-line Todo application built with **Node.js**, 
 3. Run the Cli
 
 ```bash
- node index.js
+ node todo.js
 ```
 
 4. Add a task
 
 ```bash
-  node index.js add "Buy groceries"
+  node todo.js add "Buy groceries"
 ```
 
 5. List all tasks
 
 ```bash
- node index.js list
+ node todo.js list
 ```
 
 6. Edit a task
 
 ```bash
-  node index.js edit <task_number> "New task text"
+  node todo.js edit <task_number> "New task text"
 ```
 
 7. Delete a task
 
 ```bash
- node index.js delete <task_number>
+ node todo.js delete <task_number>
 ```
 
 8. Add a task
 
 ```bash
-  node index.js add "Buy groceries"
+  node todo.js add "Buy groceries"
 ```
 
 9. Delete all tasks
 
 ```bash
- node index.js deleteAll
+ node todo.js deleteAll
 
 ```
