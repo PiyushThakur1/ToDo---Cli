@@ -71,8 +71,9 @@ A simple and customizable command-line Todo application built with **Node.js**, 
 
 ## Tech Stack
 
-Node.js
-
-Commander
-
-Chalk
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![Chalk](https://img.shields.io/badge/Chalk-4A148C?style=for-the-badge&logo=javascript&logoColor=white)
+- ![Commander](https://img.shields.io/badge/Commander.js-FF5722?style=for-the-badge&logo=javascript&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
