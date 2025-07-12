@@ -51,7 +51,7 @@ A simple and customizable command-line Todo application built with **Node.js**, 
 4. Add a task
 
 ```bash
-  node todo.js add "Buy groceries"
+  node todo.js add "Go to Gym"
 ```
 
 5. List all tasks
@@ -63,7 +63,7 @@ A simple and customizable command-line Todo application built with **Node.js**, 
 6. Edit a task
 
 ```bash
-  node todo.js edit <task_number> "New task text"
+  node todo.js edit <task_number> "New task"
 ```
 
 7. Delete a task
@@ -75,7 +75,7 @@ A simple and customizable command-line Todo application built with **Node.js**, 
 8. Add a task
 
 ```bash
-  node todo.js add "Buy groceries"
+  node todo.js add "Go to Gym"
 ```
 
 9. Delete all tasks
