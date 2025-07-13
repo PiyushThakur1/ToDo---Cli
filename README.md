@@ -66,16 +66,16 @@ A simple and customizable command-line Todo application built with **Node.js**, 
   node todo.js edit <task_number> "New task"
 ```
 
-7. Delete a task
+7. Mark task as done
+
+```bash
+ node todo.js done <task_number>
+```
+
+8. Delete a task
 
 ```bash
  node todo.js delete <task_number>
-```
-
-8. Add a task
-
-```bash
-  node todo.js add "Go to Gym"
 ```
 
 9. Delete all tasks
